@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinanndogan&label=Profile%20views&color=0e75b6&style=flat" alt="sinanndogan" /> </p>
 
-- 💬 Ask me about **ASP.NET.CORE , MS SQL ,VUE**
+- 💬 Ask me about **ASP.NET.CORE , MS SQL**
 
 - 📫 How to reach me **sinandogan.web@gmail.com**
 
